@@ -25,3 +25,6 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+
+  path = path_to_submodule 
+  url = git://url-of-source/
